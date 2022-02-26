@@ -1,0 +1,5 @@
+; Made by WilloIzCitron
+; Only works on Dev Insider build 22557 or later
+
+[HKEY_CURRENT_USER\Control Panel\UnsupportedHardwareNotificationCache]
+"SV2"= "0"
