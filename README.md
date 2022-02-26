@@ -3,9 +3,9 @@ Registry file makes "System requirements not met' watermark gone. Only works in 
 
 ## How to Use
 
-Step 1: install reg file sirst
+Step 1: install removeunsupportedwatermark.reg file first
 
-Step 2: run reg file
+Step 2: run removeunsupportedwatermark.reg file
 
 Step 3: Select yes on Administration Privieges
 
