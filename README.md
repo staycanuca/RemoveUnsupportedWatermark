@@ -15,4 +15,4 @@ Step 5: Restart your pc
 
 ## License
 
-This Repo has licensed with open source software LGPL v3
+This Repo has unlicensed
